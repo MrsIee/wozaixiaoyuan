@@ -42,7 +42,7 @@ class Xiao:
         self.heathData = {
             "answers": '["0"]',
             "date": self.get_date_str(),
-            "id": "253834731866372096",
+            "id": "*****",
             "seq": "0",
             "latitude": "",
             "longitude": "",
